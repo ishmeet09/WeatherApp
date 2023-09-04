@@ -1,4 +1,4 @@
-The WeatherApp is a user-friendly web application designed to provide up-to-date weather information for various locations. It was created using a combination of HTML, CSS, and JavaScript to deliver a seamless and visually appealing experience for users seeking weather forecasts.
+The WeatherApp is a user-friendly web application designed to provide up-to-date weather information for various locations. It was created using a combination of HTML, Tailwind CSS, and JavaScript to deliver a seamless and visually appealing experience for users seeking weather forecasts.
 
 Key Features:
 
